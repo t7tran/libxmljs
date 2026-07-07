@@ -1,5 +1,5 @@
 {
-  "name": "libxmljs",
+  "name": "@t7tran/libxmljs",
   "binary": {
     "module_name": "xmljs",
     "module_path": "./build/Release/",
@@ -8,13 +8,13 @@
     "package_name": "{node_abi}-{platform}-{arch}.tar.gz"
   },
   "description": "libxml bindings for v8 javascript engine",
-  "version": "1.0.12",
+  "version": "1.0.12-beta.1",
   "repository": {
     "type": "git",
-    "url": "http://github.com/libxmljs/libxmljs.git"
+    "url": "http://github.com/t7tran/libxmljs.git"
   },
   "bugs": {
-    "url": "http://github.com/libxmljs/libxmljs/issues"
+    "url": "http://github.com/t7tran/libxmljs/issues"
   },
   "license": "MIT",
   "engines": {
